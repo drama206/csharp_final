@@ -1,0 +1,7 @@
+(Select)~(G-R)~(Duration)
+The Lion King~G~1h28min
+Zootopia~PG~1h48min
+Home Alone~PG~1h43min
+Jurassic Park~PG-13~2h07min
+Blazing Saddles~R~1h33min
+Casino~R~2h58min

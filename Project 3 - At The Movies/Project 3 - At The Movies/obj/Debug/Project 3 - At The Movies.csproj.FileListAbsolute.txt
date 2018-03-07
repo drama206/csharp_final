@@ -1,0 +1,31 @@
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\bin\Debug\Project 3 - At The Movies.exe.config
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\bin\Debug\Project 3 - At The Movies.exe
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\bin\Debug\Project 3 - At The Movies.pdb
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project 3 - At The Movies.csprojResolveAssemblyReference.cache
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.frmAtTheMovies.resources
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.Properties.Resources.resources
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project 3 - At The Movies.csproj.GenerateResource.Cache
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project 3 - At The Movies.exe
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project 3 - At The Movies.pdb
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.SplashAtTheMovies.resources
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.AboutAtTheMovies.resources
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\bin\Debug\Project 3 - At The Movies.exe.config
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\bin\Debug\Project 3 - At The Movies.exe
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\bin\Debug\Project 3 - At The Movies.pdb
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project 3 - At The Movies.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.AboutAtTheMovies.resources
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.frmAtTheMovies.resources
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.Properties.Resources.resources
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.SplashAtTheMovies.resources
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project 3 - At The Movies.csproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project 3 - At The Movies.exe
+C:\Users\Kevin\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project 3 - At The Movies.pdb
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project 3 - At The Movies.csproj.ResolveComReference.cache
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.AtTheMoviesFeaturedTrailers.resources
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\bin\Debug\aa\Project 3 - At The Movies.resources.dll
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\Project_3___At_The_Movies.AtTheMoviesFeaturedTrailers.aa.resources
+C:\Users\Z-Drama\Dropbox\EDCC\CS 218 - INTRODUCTION TO C#\PROJECTS\Project 3 - At The Movies\Project 3 - At The Movies\Project 3 - At The Movies\obj\Debug\aa\Project 3 - At The Movies.resources.dll

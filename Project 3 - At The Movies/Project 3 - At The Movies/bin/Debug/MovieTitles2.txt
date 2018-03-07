@@ -1,0 +1,10 @@
+(Select)~(G-R)~(Duration)
+Inside Out~PG~1h54min
+Aladdin~G~1h48min
+The Avengers~PG~2h09min
+Jurassic World~PG-13~2h00min
+Goodfellas~R~2h33min
+Heat~R~2h18min
+The Fellowship of the Ring~PG~2h58min
+The Two Towers~PG-13~3h18min
+Return Of The King~PG-13~3h04min
